@@ -5,3 +5,8 @@ adding feature2
 adding feature3
 
 adding feature4
+<<<<<<< HEAD
+=======
+
+adding feature6
+>>>>>>> Update vaibh.txt
