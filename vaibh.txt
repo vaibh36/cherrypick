@@ -7,3 +7,6 @@ adding feature3
 adding feature4
 
 adding feature6
+adding feature 5
+adding feature 8
+adding feature 7
