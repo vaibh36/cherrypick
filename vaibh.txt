@@ -5,12 +5,5 @@ adding feature2
 adding feature3
 
 adding feature4
-<<<<<<< HEAD
-=======
 
 adding feature6
-<<<<<<< HEAD
->>>>>>> Update vaibh.txt
-=======
-adding feature 5
->>>>>>> adding feature 5
